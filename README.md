@@ -1,4 +1,9 @@
-
+ .title {
+      font-size: 48px;  /* Bigger font size */
+      font-weight: bold;/* Bold text */
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
   <!-- Core Files -->
   <div class="title"><strong>CORE FILES</strong></div>
   <ul>
