@@ -1,17 +1,3 @@
- <title>Libft File Organization</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    .title {
-      font-size: 24px;
-      font-weight: bold;
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
 
   <!-- Core Files -->
   <div class="title">CORE FILES</div>
