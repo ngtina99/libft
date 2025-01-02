@@ -1,9 +1,4 @@
- .title {
-      font-size: 48px;  /* Bigger font size */
-      font-weight: bold;/* Bold text */
-      margin-top: 20px;
-      margin-bottom: 10px;
-    }
+
   <!-- Core Files -->
   <div class="title"><strong>CORE FILES</strong></div>
   <ul>
@@ -12,7 +7,7 @@
   </ul>
 
   <!-- Character Checks -->
-  <div class="title">CHARACTER CHECKS</strong></div>
+  <div class="title"><strong>CHARACTER CHECKS</strong></div>
   <ul>
     <li>ft_isalpha.c</li>
     <li>ft_isdigit.c</li>
@@ -22,7 +17,7 @@
   </ul>
 
   <!-- String Utilities -->
-  <div class="title">STRING UTILITIES</strong></div>
+  <div class="title"><strong>STRING UTILITIES</strong></div>
   <ul>
     <li>ft_strmapi.c</li>
     <li>ft_striteri.c</li>
@@ -31,7 +26,7 @@
   </ul>
 
   <!-- String Manipulation -->
-  <div class="title">STRING MANIPULATION</strong></div>
+  <div class="title"><strong>STRING MANIPULATION</strong></div>
   <ul>
     <li>ft_strlen.c</li>
     <li>ft_strchr.c</li>
@@ -44,7 +39,7 @@
   </ul>
 
   <!-- String Creation/Conversion -->
-  <div class="title">STRING CREATION</strong></div>
+  <div class="title"><strong>STRING CREATION</strong></div>
   <ul>
     <li>ft_atoi.c</li>
     <li>ft_itoa.c</li>
@@ -53,9 +48,18 @@
     <li>ft_strjoin.c</li>
     <li>ft_strtrim.c</li>
   </ul>
+ 
+  <!-- File Descriptor I/O -->
+  <div class="title"><strong>FUNCTIONS WITH FILE DESCRIPTOR</strong></div>
+  <ul>
+    <li>ft_putchar_fd.c</li>
+    <li>ft_putstr_fd.c</li>
+    <li>ft_putendl_fd.c</li>
+    <li>ft_putnbr_fd.c</li>
+  </ul>
 
   <!-- Memory Functions -->
-  <div class="title">MEMORY FUNCTIONS</strong></div>
+  <div class="title"><strong>MEMORY FUNCTIONS</strong></div>
   <ul>
     <li>ft_bzero.c</li>
     <li>ft_calloc.c</li>
@@ -65,17 +69,9 @@
     <li>ft_memmove.c</li>
     <li>ft_memset.c</li>
   </ul>
-  <!-- File Descriptor I/O -->
-  <div class="title">FUNCTIONS WITH FILE DESCRIPTOR</strong></div>
-  <ul>
-    <li>ft_putchar_fd.c</li>
-    <li>ft_putstr_fd.c</li>
-    <li>ft_putendl_fd.c</li>
-    <li>ft_putnbr_fd.c</li>
-  </ul>
-
+  
   <!-- Linked List (Bonus) -->
-  <div class="title">LINKED LIST EXERCISES (BONUS)</strong></div>
+  <div class="title"><strong>LINKED LIST EXERCISES (BONUS)</strong></div>
   <ul>
     <li>ft_lstnew.c</li>
     <li>ft_lstadd_front.c</li>
