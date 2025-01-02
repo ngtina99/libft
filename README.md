@@ -1,6 +1,6 @@
 
   <!-- Core Files -->
-  <div class="title">CORE FILES</strong></div>
+  <div class="title"><strong>CORE FILES</strong></div>
   <ul>
     <li>Makefile</li>
     <li>libft.h</li>
