@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstiter.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: thuy-ngu <thuy-ngu@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ngtina1999 <ngtina1999@student.42.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/02 21:22:25 by thuy-ngu          #+#    #+#             */
-/*   Updated: 2023/10/21 21:10:24 by thuy-ngu         ###   ########.fr       */
+/*   Updated: 2025/01/02 19:27:12 by ngtina1999       ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,10 +22,12 @@ void	ft_lstiter(t_list *lst, void (*f)(void *))
 		lst = lst->next;
 	}
 }
+
 /*void printing(void *data)
 {
     printf("%c\n", *(char *)data);
 }
+
 int main()
 {
     t_list *list = NULL;
