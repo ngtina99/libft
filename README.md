@@ -1,5 +1,6 @@
 
-## 🔧 Build
+## 🔧 Usage
+Link the library when compiling and use your custom functions
 ```bash
 cc -Wall -Wextra -Werror test.c -L. -lft -o test_program
 ```
