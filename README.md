@@ -9,6 +9,8 @@ Link the library when compiling and use your custom functions:
 cc -Wall -Wextra -Werror test.c -L. -lft -o test_program
 ```
 
+## 📂 Overview of implemented functions
+
   <!-- Core Files -->
   <div class="title"><strong>CORE FILES</strong></div>
   <ul>
