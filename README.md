@@ -1,4 +1,9 @@
+
+## 🔧 Build
+```bash
 cc -Wall -Wextra -Werror test.c -L. -lft -o test_program
+```
+
   <!-- Core Files -->
   <div class="title"><strong>CORE FILES</strong></div>
   <ul>
