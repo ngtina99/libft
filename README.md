@@ -88,8 +88,5 @@ cc -Wall -Wextra -Werror test.c -L. -lft -o test_program
 If you have any questions or suggestions, feel free to connect:
 🔗 [LinkedIn: Valentina Nguyen](https://www.linkedin.com/in/valentina-nguyen-tina/) 🙋‍♀️
 
-## 📜 License
-This project is licensed under the MIT License. See LICENSE for details.
-
 ## 🖥️ System Compatibility
 This project was developed and tested on Linux (Ubuntu).
